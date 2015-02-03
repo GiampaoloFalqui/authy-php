@@ -19,9 +19,9 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Authy": "lib"
-        }
+      "psr-4": {
+        "Authy\\": "src/Authy/"
+      }
     }
 }
 
